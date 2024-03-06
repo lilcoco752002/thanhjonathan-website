@@ -64,145 +64,134 @@
             
         },
     {
-        "name":"Electronic Devices",
-        "price":### ,
-        "description": "Electronics include mobile devices and laptops",
+        "name":"Samspung Galaxy S24",
+        "price":32000000 ,
+        "description": "Samsung Galaxy S24 Ultra high-end phone model was launched in early 2024, the product continues to inherit and improve from the previous generation. The special feature is the use of Snapdragon 8 Gen 3 for Galaxy chip, 200 MP camera and integrated many AI features.",
         "category_id": "0gjE9MNUrOXIL9urZTbH",
         "quantity": 999,
         "images": [
-            "https://cdn-icons-png.freepik.com/512/1136/1136830.png?ga=GA1.1.1647817545.1709614163&",
+            "https://images.samsung.com/is/image/samsung/p6pim/ca/2401/gallery/ca-galaxy-s24-sm-s921wzyexac-thumb-539292502?imwidth=480",
+            "https://images.samsung.com/is/image/samsung/p6pim/ca/2401/gallery/ca-galaxy-s24-sm-s921wzyexac-thumb-539292492?imwidth=480",
+            "https://images.samsung.com/is/image/samsung/p6pim/ca/2401/gallery/ca-galaxy-s24-sm-s921wzyexac-thumb-539292495?imwidth=480",
+
+        
+
             
         ],
         "specifications": [
             {
-                "title": "Phone",
-                "value": [
-                    {
-                        "feature": "Iphone",
-                        "feature_value": "IOS"
-                    },
-                    {
-                        "feature": "Samsung",
-                        "feature_value": "AndroidOS"
-                    }
-                    {
-                        "feature": "Huawei",
-                        "feature_value": "HarmonyOS"
-                    }
-                
-                ]
-               
-            },
-            {
-                "title": "Laptop",
-                "value": [
-                    {
-                        "feature": "Asus",
-                        "feature_value": "Microsoft Window"
-                    },        
-                    {
-                        "feature": "Macbook",
-                        "feature_value": "macOS"
-                    }
-                        "feature": "System76",
-                        "feature_value": "Linux"
-                ]
-               
-            }
-        ],
-        "other_details": "other_details_here"
+                    "title": "Display",
+                    "value": [
+                        {
+                            "feature": "Resolution",
+                            "feature_value": "1440 x 3120 Pixels"
+                        },
+                        {
+                            "feature": "Screen Size",
+                            "feature_value": "6.8 inch"
+                        },
+                        {
+                            "feature": "Pannel",
+                            "feature_value": "Dynamic AMOLED 2X"
+                        }
+                        
+                    ]
+                   
+                },
+                {
+                    "title": "Camera",
+                    "value": [
+                        {
+                            "feature": "Megapixels",
+                            "feature_value": "50 MP, 12 MP, 10 MP"
+                        }                      
+                    ]
+                   
+                },
+                {
+                    "title": "Internal configuration",
+                    "value": [
+                        {
+                            "feature": "RAM",
+                            "feature_value": "12 GB"
+                        }, 
+                        {
+                            "feature": "ROM",
+                            "feature_value": "256 GB"
+                        },  
+                        {
+                            "feature": "CPU",
+                            "feature_value": "Snapdragon 8 Gen 3 for Galaxy"
+                        }                  
+                    ]
+                   
+                }
+            ],
+        "Galaxy S24 Ultra is a high-end phone with beautiful design, powerful performance, quality camera system and impressive battery life."
         
     },
-
-    {
-        "name":"Men's Fashion",
-        "price": ###,
-        "description": "Men's fashion items such as shirts, pants, and accessories",
-        "category_id": "0gjE9MNUrOXIL9urZTbH",
-        "quantity": 9999,
-        "images": [
-            "https://cdn-icons-png.freepik.com/512/2804/2804622.png?ga=GA1.1.1647817545.1709614163&",
-          
-        ],
-        "specifications": [
-            {
-                "title": "Clothes",
-                "value": [
-                    {
-                        "feature": "Shirt",
-                        "feature_value": "Cotton"
-                    },
-                    {
-                        "feature": "Pants",
-                        "feature_value": "Kaki"
-                    }
-                    
-                ]
-               
-            },
-            {
-                "title": "Accessories",
-                "value": [
-                    {
-                        "feature": "feature_here",
-                        "feature_value": "feature_value_here"
-                    },
-                    {
-                        "feature": "feature_here",
-                        "feature_value": "feature_value_here"
-                    }
-                    
-                ]
-               
-            }
-        ],
-        "other_details": "other_details_here"
-            },
-{
-        "name":"Woman's Fashion",
-        "price":### ,
-        "description": "description_here",
-        "category_id": "d022r8Dg2qjYnQ5U8cTK",
-        "quantity": 999,
-        "images": [
-            "https://ibb.co/ZdVzw9m",
-            "link 2 here",
-            "link 3 here"
-        ],
-        "specifications": [
-            {
-                "title": "title_here",
-                "value": [
-                    {
-                        "feature": "feature_here",
-                        "feature_value": "feature_value_here"
-                    },
-                    {
-                        "feature": "feature_here",
-                        "feature_value": "feature_value_here"
-                    }
-                
-                ]
-               
-            },
-            {
-                "title": "title_here",
-                "value": [
-                    {
-                        "feature": "feature_here",
-                        "feature_value": "feature_value_here"
-                    },
-                    {
-                        "feature": "feature_here",
-                        "feature_value": "feature_value_here"
-                    }
-                    
-                ]
-               
-            }
-        ],
-        "other_details": "other_details_here"
-        
-    },
+ {
+            "name":"Xiaomi Redmi Note 13 Pro",
+            "price": 27000000,
+            "description": "The iPhone 15 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.69 inches diagonally (actual viewable area is less).",
+            "category_id": "0gjE9MNUrOXIL9urZTbH",
+            "quantity": 999,
+            "images": [
+                "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_2__5.webp",
+                "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_7__1.webp",
+                "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_5__1.webp"
+            ],
+            "specifications": [
+                {
+                    "title": "Display",
+                    "value": [
+                        {
+                            "feature": "Resolution",
+                            "feature_value": "2796 x 1290 Pixels"
+                        },
+                        {
+                            "feature": "Screen Size",
+                            "feature_value": "6.7 inch"
+                        },
+                        {
+                            "feature": "Pannel",
+                            "feature_value": "OLED, Super Retina XDR"
+                        }
+                        
+                    ]
+                   
+                },
+                {
+                    "title": "Camera",
+                    "value": [
+                        {
+                            "feature": "Megapixels",
+                            "feature_value": "48.0 MP + 12.0 MP + 12.0 MP"
+                        }                      
+                    ]
+                   
+                },
+                {
+                    "title": "Internal configuration",
+                    "value": [
+                        {
+                            "feature": "RAM",
+                            "feature_value": "8 GB"
+                        }, 
+                        {
+                            "feature": "ROM",
+                            "feature_value": "256 GB"
+                        },  
+                        {
+                            "feature": "CPU",
+                            "feature_value": "Apple A17 Pr"
+                        }                  
+                    ]
+                   
+                }
+            ],
+            "other_details": "iPhone 15 Pro Max shows class right from its appearance with a sleek, sophisticated, and luxuriously beautiful titanium frame. Apple took a lot of mechanical processing, sanding, polishing and grinding processes to create a material that is both beautiful, durable, and very light. The iPhone 15 Pro Max frame is also curved, combined with an ultra-thin design that fits perfectly in the palm of the hand."
+            
+        },
 
 ]
