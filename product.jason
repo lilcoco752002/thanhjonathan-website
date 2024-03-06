@@ -64,8 +64,8 @@
             
         },
     {
-        "name":"name_here_1",
-        "price": 21312,
+        "name":"Electronic Devices",
+        "price": ,
         "description": "description_here",
         "category_id": "the_category_id_here",
         "quantity": 999,
