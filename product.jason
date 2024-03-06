@@ -1,1 +1,159 @@
+[
 
+        {
+            "name":"IPhone 15 Pro-max 1TB Grey",
+            "price": 45000000,
+            "description": "The iPhone 15 Pro Max display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 6.69 inches diagonally (actual viewable area is less).",
+            "category_id": "0gjE9MNUrOXIL9urZTbH",
+            "quantity": 999,
+            "images": [
+                "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_2__5.webp",
+                "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_7__1.webp",
+                "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_5__1.webp"
+            ],
+            "specifications": [
+                {
+                    "title": "Display",
+                    "value": [
+                        {
+                            "feature": "Resolution",
+                            "feature_value": "2796 x 1290 Pixels"
+                        },
+                        {
+                            "feature": "Screen Size",
+                            "feature_value": "6.7 inch"
+                        },
+                        {
+                            "feature": "Pannel",
+                            "feature_value": "OLED, Super Retina XDR"
+                        }
+                        
+                    ]
+                   
+                },
+                {
+                    "title": "Camera",
+                    "value": [
+                        {
+                            "feature": "Megapixels",
+                            "feature_value": "48.0 MP + 12.0 MP + 12.0 MP"
+                        }                      
+                    ]
+                   
+                },
+                {
+                    "title": "Internal configuration",
+                    "value": [
+                        {
+                            "feature": "RAM",
+                            "feature_value": "8 GB"
+                        }, 
+                        {
+                            "feature": "ROM",
+                            "feature_value": "256 GB"
+                        },  
+                        {
+                            "feature": "CPU",
+                            "feature_value": "Apple A17 Pr"
+                        }                  
+                    ]
+                   
+                }
+            ],
+            "other_details": "iPhone 15 Pro Max shows class right from its appearance with a sleek, sophisticated, and luxuriously beautiful titanium frame. Apple took a lot of mechanical processing, sanding, polishing and grinding processes to create a material that is both beautiful, durable, and very light. The iPhone 15 Pro Max frame is also curved, combined with an ultra-thin design that fits perfectly in the palm of the hand."
+            
+        },
+    {
+        "name":"name_here_1",
+        "price": 21312,
+        "description": "description_here",
+        "category_id": "the_category_id_here",
+        "quantity": 999,
+        "images": [
+            "link 1 here",
+            "link 2 here",
+            "link 3 here"
+        ],
+        "specifications": [
+            {
+                "title": "title_here",
+                "value": [
+                    {
+                        "feature": "feature_here",
+                        "feature_value": "feature_value_here"
+                    },
+                    {
+                        "feature": "feature_here",
+                        "feature_value": "feature_value_here"
+                    }
+                
+                ]
+               
+            },
+            {
+                "title": "title_here",
+                "value": [
+                    {
+                        "feature": "feature_here",
+                        "feature_value": "feature_value_here"
+                    },
+                    {
+                        "feature": "feature_here",
+                        "feature_value": "feature_value_here"
+                    }
+                    
+                ]
+               
+            }
+        ],
+        "other_details": "other_details_here"
+        
+    },
+
+    {
+        "name":"name_here_2",
+        "price": 21312,
+        "description": "description_here",
+        "category_id": "the_category_id_here",
+        "quantity": 999,
+        "images": [
+            "link 1 here",
+            "link 2 here",
+            "link 3 here"
+        ],
+        "specifications": [
+            {
+                "title": "title_here",
+                "value": [
+                    {
+                        "feature": "feature_here",
+                        "feature_value": "feature_value_here"
+                    },
+                    {
+                        "feature": "feature_here",
+                        "feature_value": "feature_value_here"
+                    }
+                    
+                ]
+               
+            },
+            {
+                "title": "title_here",
+                "value": [
+                    {
+                        "feature": "feature_here",
+                        "feature_value": "feature_value_here"
+                    },
+                    {
+                        "feature": "feature_here",
+                        "feature_value": "feature_value_here"
+                    }
+                    
+                ]
+               
+            }
+        ],
+        "other_details": "other_details_here"
+            }
+
+]
