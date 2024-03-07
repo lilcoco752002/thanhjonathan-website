@@ -193,5 +193,68 @@
             "other_details": "With the perfect combination of powerful performance, beautiful design and sharp photography capabilities, Xiaomi Redmi Note 13 Pro 5G deserves to be the ideal choice in today's mid-range phone segment."
             
         },
+{
+            "name":"Laptop Asus TUF Gaming F15",
+            "price": 87000000,
+            "description": "With a powerful Intel Core i5 H-series processor and a 4 GB NVIDIA GeForce RTX 2050 discrete graphics card, the Asus TUF Gaming F15 FX506HF laptop is one of the great choices for gamers and multitasking users. services or related to graphics or engineering.",
+            "category_id": "0gjE9MNUrOXIL9urZTbH",
+            "quantity": 999,
+            "images": [
+                "https://www.asus.com/media/global/gallery/96grkfaqbbqp4ete_setting_xxx_0_90_end_800.png",
+                "https://www.asus.com/media/global/gallery/kilyjb19qi1qmsaj_setting_xxx_0_90_end_800.png",
+                "https://www.asus.com/media/global/gallery/63nq57jtwcnkqduo_setting_xxx_0_90_end_800.png"
+            ],
+            "specifications": [
+                {
+                    "title": "Display",
+                    "value": [
+                        {
+                            "feature": "Resolution",
+                            "feature_value": "Full HD (1920 x 1080)"
+                        },
+                        {
+                            "feature": "Screen Size",
+                            "feature_value": "15.6 inch"
+                        },
+                        {
+                            "feature": "Screen Tech",
+                            "feature_value": "IPS panel + Anti-glare + Anti Glare Adaptive-Sync"
+                        }
+                        
+                    ]
+                   
+                },
+                {
+                    "title": "Camera",
+                    "value": [
+                        {
+                            "feature": "Dual-LED dual-tone flash, HDR, panorama",
+                            "feature_value": "200 MP + 8 MP + 2 MP"
+                        }                      
+                    ]
+                   
+                },
+                {
+                    "title": "Internal configuration",
+                    "value": [
+                        {
+                            "feature": "RAM",
+                            "feature_value": "12 GB"
+                        }, 
+                        {
+                            "feature": "ROM",
+                            "feature_value": "256 GB"
+                        },  
+                        {
+                            "feature": "CPU",
+                            "feature_value": "Octa-core "
+                        }                  
+                    ]
+                   
+                }
+            ],
+            "other_details": "With the perfect combination of powerful performance, beautiful design and sharp photography capabilities, Xiaomi Redmi Note 13 Pro 5G deserves to be the ideal choice in today's mid-range phone segment."
+            
+        },
 
 ]
