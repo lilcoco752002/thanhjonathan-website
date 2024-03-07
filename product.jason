@@ -194,67 +194,404 @@
             
         },
 {
-            "name":"Laptop Asus TUF Gaming F15",
-            "price": 87000000,
-            "description": "With a powerful Intel Core i5 H-series processor and a 4 GB NVIDIA GeForce RTX 2050 discrete graphics card, the Asus TUF Gaming F15 FX506HF laptop is one of the great choices for gamers and multitasking users. services or related to graphics or engineering.",
-            "category_id": "0gjE9MNUrOXIL9urZTbH",
-            "quantity": 999,
-            "images": [
-                "https://www.asus.com/media/global/gallery/96grkfaqbbqp4ete_setting_xxx_0_90_end_800.png",
-                "https://www.asus.com/media/global/gallery/kilyjb19qi1qmsaj_setting_xxx_0_90_end_800.png",
-                "https://www.asus.com/media/global/gallery/63nq57jtwcnkqduo_setting_xxx_0_90_end_800.png"
-            ],
-            "specifications": [
+    "name": "Samsung Galaxy S22 Ultra 512GB Black",
+    "price": 38990000,
+    "description": "The Samsung Galaxy S22 Ultra features a stunning 6.8-inch Dynamic AMOLED display with a resolution of 3200 x 1440 pixels. It offers a smooth and immersive viewing experience with vibrant colors and sharp details.",
+    "category_id": "0gjE9MNUrOXIL9urZTbH",
+    "quantity": 500,
+    "images": [
+        "https://images.samsung.com/is/image/samsung/p6pim/vn/2202/gallery/vn-galaxy-s22-ultra-s908-sm-s908ezkgxxv-530768813?$2052_1641_PNG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/vn/2202/gallery/vn-galaxy-s22-ultra-s908-sm-s908ezkgxxv-530768779?$684_547_PNG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/vn/2202/gallery/vn-galaxy-s22-ultra-s908-sm-s908ezkgxxv-530768780?$684_547_PNG$"
+    ],
+    "specifications": [
+        {
+            "title": "Display",
+            "value": [
                 {
-                    "title": "Display",
-                    "value": [
-                        {
-                            "feature": "Resolution",
-                            "feature_value": "Full HD (1920 x 1080)"
-                        },
-                        {
-                            "feature": "Screen Size",
-                            "feature_value": "15.6 inch"
-                        },
-                        {
-                            "feature": "Screen Tech",
-                            "feature_value": "IPS panel + Anti-glare + Anti Glare Adaptive-Sync"
-                        }
-                        
-                    ]
-                   
+                    "feature": "Resolution",
+                    "feature_value": "3200 x 1440 Pixels"
                 },
                 {
-                    "title": "Camera",
-                    "value": [
-                        {
-                            "feature": "Dual-LED dual-tone flash, HDR, panorama",
-                            "feature_value": "200 MP + 8 MP + 2 MP"
-                        }                      
-                    ]
-                   
+                    "feature": "Screen Size",
+                    "feature_value": "6.8 inch"
                 },
                 {
-                    "title": "Internal configuration",
-                    "value": [
-                        {
-                            "feature": "RAM",
-                            "feature_value": "12 GB"
-                        }, 
-                        {
-                            "feature": "ROM",
-                            "feature_value": "256 GB"
-                        },  
-                        {
-                            "feature": "CPU",
-                            "feature_value": "Octa-core "
-                        }                  
-                    ]
-                   
+                    "feature": "Panel",
+                    "feature_value": "Dynamic AMOLED"
                 }
-            ],
-            "other_details": "With the perfect combination of powerful performance, beautiful design and sharp photography capabilities, Xiaomi Redmi Note 13 Pro 5G deserves to be the ideal choice in today's mid-range phone segment."
-            
+            ]
         },
+        {
+            "title": "Camera",
+            "value": [
+                {
+                    "feature": "Megapixels",
+                    "feature_value": "108.0 MP + 12.0 MP + 12.0 MP + 12.0 MP"
+                }
+            ]
+        },
+        {
+            "title": "Internal Configuration",
+            "value": [
+                {
+                    "feature": "RAM",
+                    "feature_value": "12 GB"
+                },
+                {
+                    "feature": "ROM",
+                    "feature_value": "512 GB"
+                },
+                {
+                    "feature": "CPU",
+                    "feature_value": "Qualcomm Snapdragon 895"
+                }
+            ]
+        }
+    ],
+    "other_details": "The Samsung Galaxy S22 Ultra is a powerful flagship smartphone that offers top-of-the-line performance and cutting-edge features. With its stunning display, high-quality camera system, and ample storage capacity, it provides an exceptional user experience."
+},
+{
+    "name": "Sony Alpha a7R IV Mirrorless Camera",
+    "price": 27990000,
+    "description": "The Sony Alpha a7R IV is a high-resolution full-frame mirrorless camera that delivers exceptional image quality and performance. It features a 61-megapixel Exmor R BSI CMOS sensor, 4K video recording, and advanced autofocus capabilities.",
+    "category_id": "0gjE9MNUrOXIL9urZTbH",
+    "quantity": 200,
+    "images": [
+        "https://tokyocamera.vn/wp-content/uploads/2022/04/Sony-A7R-IV-A.jpg",
+     
+    ],
+    "specifications": [
+        {
+            "title": "Sensor",
+            "value": [
+                {
+                    "feature": "Resolution",
+                    "feature_value": "61 Megapixels"
+                },
+                {
+                    "feature": "Sensor Type",
+                    "feature_value": "Exmor R BSI CMOS"
+                }
+            ]
+        },
+        {
+            "title": "Video Recording",
+            "value": [
+                {
+                    "feature": "Resolution",
+                    "feature_value": "4K UHD"
+                },
+                {
+                    "feature": "Recording Modes",
+                    "feature_value": "XAVC S, AVCHD, MP4"
+                }
+            ]
+        },
+        {
+            "title": "Autofocus",
+            "value": [
+                {
+                    "feature": "Focus Points",
+                    "feature_value": "567 Phase Detection, 425 Contrast Detection"
+                },
+                {
+                    "feature": "Eye AF",
+                    "feature_value": "Real-time Eye AF (Human and Animal)"
+                }
+            ]
+        },
+        {
+            "title": "Display",
+            "value": [
+                {
+                    "feature": "Type",
+                    "feature_value": "3.0-inch Tilting Touchscreen LCD"
+                },
+                {
+                    "feature": "Resolution",
+                    "feature_value": "1.44 million dots"
+                }
+            ]
+        }
+    ],
+    "other_details": "The Sony Alpha a7R IV is designed for professional photographers and enthusiasts who demand the highest image quality. It offers a wide range of features and customization options, making it a versatile tool for capturing stunning photos and videos."
+},
+{
+    "name": "Dell XPS 15 9500 Laptop",
+    "price": 37990000,
+    "description": "The Dell XPS 15 9500 is a powerful and sleek laptop that combines performance, portability, and stunning visuals. It features a 15.6-inch 4K UHD InfinityEdge display, 10th generation Intel Core i7 processor, and NVIDIA GeForce GTX 1650 Ti graphics.",
+    "category_id": "0gjE9MNUrOXIL9urZTbH",
+    "quantity": 150,
+    "images": [
+        "https://mayxaugiacao.com/wp-content/uploads/2022/08/thiet-ket-cao-cap-dell-xps-9500-i7-10750H-mayxaugiacao.jpg",
+        
+    ],
+    "specifications": [
+        {
+            "title": "Display",
+            "value": [
+                {
+                    "feature": "Screen Size",
+                    "feature_value": "15.6 inch"
+                },
+                {
+                    "feature": "Resolution",
+                    "feature_value": "4K UHD (3840 x 2400)"
+                },
+                {
+                    "feature": "Display Technology",
+                    "feature_value": "InfinityEdge OLED"
+                }
+            ]
+        },
+        {
+            "title": "Processor",
+            "value": [
+                {
+                    "feature": "CPU",
+                    "feature_value": "10th Gen Intel Core i7-10750H"
+                },
+                {
+                    "feature": "Graphics",
+                    "feature_value": "NVIDIA GeForce GTX 1650 Ti"
+                }
+            ]
+        },
+        {
+            "title": "Memory",
+            "value": [
+                {
+                    "feature": "RAM",
+                    "feature_value": "16 GB DDR4"
+                },
+                {
+                    "feature": "Storage",
+                    "feature_value": "512 GB SSD"
+                }
+            ]
+        },
+        {
+            "title": "Operating System",
+            "value": [
+                {
+                    "feature": "OS",
+                    "feature_value": "Windows 10 Home"
+                }
+            ]
+        }
+    ],
+    "other_details": "The Dell XPS 15 9500 offers an immersive viewing experience with its 4K UHD InfinityEdge display. It delivers fast and smooth performance with its powerful processor and dedicated graphics. The laptop is also equipped with a comfortable keyboard, a large trackpad, and a long-lasting battery, making it perfect for productivity and entertainment on the go."
+},
+{
+    "name": "MacBook Air (M1 Chip)",
+    "price": 32990000,
+    "description": "The MacBook Air with M1 chip delivers powerful performance and incredible battery life. It features a 13.3-inch Retina display, Apple M1 chip with 8-core CPU and 7-core GPU, and up to 16 GB of unified memory. It's lightweight and portable, making it perfect for on-the-go productivity.",
+    "category_id": "0gjE9MNUrOXIL9urZTbH",
+    "quantity": 100,
+    "images": [
+        "https://www.apple.com/v/macbook-air/r/images/overview/design/color/design_top_midnight__fvf2p6124tqq_large.jpg",
+        "https://www.apple.com/v/macbook-air/r/images/overview/design/color/design_magsafe_midnight__d7pgfcooswmu_large.jpg",
+        "https://www.apple.com/v/macbook-air/r/images/overview/design/color/design_side_midnight__flnancj2vlme_large.jpg"
+    ],
+    "specifications": [
+        {
+            "title": "Display",
+            "value": [
+                {
+                    "feature": "Screen Size",
+                    "feature_value": "13.3 inch"
+                },
+                {
+                    "feature": "Resolution",
+                    "feature_value": "2560 x 1600 pixels"
+                },
+                {
+                    "feature": "Display Technology",
+                    "feature_value": "Retina display with True Tone"
+                }
+            ]
+        },
+        {
+            "title": "Processor",
+            "value": [
+                {
+                    "feature": "Chip",
+                    "feature_value": "Apple M1 chip"
+                },
+                {
+                    "feature": "CPU",
+                    "feature_value": "8-core CPU"
+                },
+                {
+                    "feature": "GPU",
+                    "feature_value": "7-core GPU"
+                }
+            ]
+        },
+        {
+            "title": "Memory",
+            "value": [
+                {
+                    "feature": "RAM",
+                    "feature_value": "8 GB or 16 GB unified memory"
+                },
+                {
+                    "feature": "Storage",
+                    "feature_value": "256 GB or 512 GB SSD"
+                }
+            ]
+        },
+        {
+            "title": "Operating System",
+            "value": [
+                {
+                    "feature": "OS",
+                    "feature_value": "macOS Big Sur"
+                }
+            ]
+        }
+    ],
+    "other_details": "The MacBook Air with M1 chip offers incredible performance and efficiency. With its advanced features and sleek design, it's perfect for everyday tasks, creative projects, and entertainment."
+},
+{
+    "name": "MacBook Pro 13-inch (M1 Chip)",
+    "price": 42990000,
+    "description": "The MacBook Pro 13-inch with M1 chip delivers exceptional performance and professional-grade capabilities. It features a 13.3-inch Retina display, Apple M1 chip with 8-core CPU and 8-core GPU, and up to 16 GB of unified memory. It's equipped with Thunderbolt/USB 4 ports and offers an impressive battery life.",
+    "category_id": "0gjE9MNUrOXIL9urZTbH",
+    "quantity": 80,
+    "images": [
+        "https://images.fpt.shop/unsafe/fit-in/960x640/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2020/12/25/637445033709737228_mbp-spacegray-gallery2-202011_GEO_US.jpg",
+        "https://images.fpt.shop/unsafe/fit-in/960x640/filters:quality(90):fill(white):upscale()/fptshop.com.vn/Uploads/Originals/2020/12/25/637445033709113074_mbp-spacegray-gallery1-202011.jpg",
+       
+    ],
+    "specifications": [
+        {
+            "title": "Display",
+            "value": [
+                {
+                    "feature": "Screen Size",
+                    "feature_value": "13.3 inch"
+                },
+                {
+                    "feature": "Resolution",
+                    "feature_value": "2560 x 1600 pixels"
+                },
+                {
+                    "feature": "Display Technology",
+                    "feature_value": "Retina display with True Tone"
+                }
+            ]
+        },
+        {
+            "title": "Processor",
+            "value": [
+                {
+                    "feature": "Chip",
+                    "feature_value": "Apple M1 chip"
+                },
+                {
+                    "feature": "CPU",
+                    "feature_value": "8-core CPU"
+                },
+                {
+                    "feature": "GPU",
+                    "feature_value": "8-core GPU"
+                }
+            ]
+        },
+        {
+            "title": "Memory",
+            "value": [
+                {
+                    "feature": "RAM",
+                    "feature_value": "8 GB or 16 GB unified memory"
+                },
+                {
+                    "feature": "Storage",
+                    "feature_value": "256 GB or 512 GB SSD"
+                }
+            ]
+        },
+        {
+            "title": "Ports",
+            "value": [
+                {
+                    "feature": "ThunderExample 3: MacBook Pro 16-inch
+                                }
+                        ]
+                }
+        ],
+"other_details": "All Pro systems. The Apple M1 chip gives the 13-inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x graphics speed."
+},
+
+{
+    "name": "MacBook Pro 16-inch",
+    "price": 49990000,
+    "description": "The MacBook Pro 16-inch is a powerful and feature-rich laptop designed for professionals and creative users. It features a stunning 16-inch Retina display, a robust Intel Core i9 processor, AMD Radeon Pro graphics, and up to 64 GB of RAM. It offers a spacious trackpad, a comfortable keyboard, and an impressive battery life.",
+    "category_id": "0gjE9MNUrOXIL9urZTbH",
+    "quantity": 50,
+    "images": [
+        "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp16-spaceblack-gallery1-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311166472",
+        "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp16-spaceblack-gallery2-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1698156921319",
+        "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mbp16-spaceblack-gallery6-202310?wid=4000&hei=3074&fmt=jpeg&qlt=90&.v=1697311170821"
+    ],
+    "specifications": [
+        {
+            "title": "Display",
+            "value": [
+                {
+                    "feature": "Screen Size",
+                    "feature_value": "16 inch"
+                },
+                {
+                    "feature": "Resolution",
+                    "feature_value": "3072 x 1920 pixels"
+                },
+                {
+                    "feature": "Display Technology",
+                    "feature_value": "Retina display with True Tone"
+                }
+            ]
+        },
+        {
+            "title": "Processor",
+            "value": [
+                {
+                    "feature": "CPU",
+                    "feature_value": "Intel Core i9"
+                },
+                {
+                    "feature": "Graphics",
+                    "feature_value": "AMD Radeon Pro"
+                }
+            ]
+        },
+        {
+            "title": "Memory",
+            "value": [
+                {
+                    "feature": "RAM",
+                    "feature_value": "16 GB, 32 GB, or 64 GB"
+                },
+                {
+                    "feature": "Storage",
+                    "feature_value": "512 GB, 1 TB, 2 TB, 4 TB, or 8 TB SSD"
+                }
+            ]
+        },
+        {
+            "title": "Operating System",
+            "value": [
+                {
+                    "feature": "OS",
+                    "feature_value": "macOS Big Sur"
+                }
+            ]
+        }
+    ],
+    "other_details": "The MacBook Pro 16-inch offers a stunning display, powerful performance, and a range of advanced features. It's perfect for demanding tasks like video editing, 3D rendering, and music production."
+},
+
 
 ]
