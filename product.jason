@@ -1142,6 +1142,71 @@
         }
     ],
     "other_details": "These women's sneakers are perfect for casual everyday wear and provide both comfort and style."
+},
+
+{
+    "name": "Women's Jumpsuit",
+    "price": 6999,
+    "description": "A trendy women's jumpsuit made from lightweight and stretchy fabric. It features a v-neckline and wide-leg pants. Available in various sizes and colors.",
+    "category_id": "d022r8Dg2qjYnQ5U8cTK",
+    "quantity": 50,
+    "images": [
+       
+        "https://assets.ajio.com/medias/sys_master/root/20230628/W2eO/649bf531a9b42d15c90f371c/-473Wx593H-465848242-teal-MODEL.jpg"
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Polyester"
+        },
+        {
+            "title": "Neckline",
+            "value": "V-Neck"
+        },
+        {
+            "title": "Pant Style",
+            "value": "Wide Leg"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Black", "Navy Blue", "Burgundy", "Olive Green"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["XS", "S", "M", "L"]
+        }
+    ],
+    "other_details": "This women's jumpsuit is a fashionable and effortless option for a variety of occasions, from casual outings to evening events."
+},
+{
+    "name": "Women's Tote Bag",
+    "price": 4999,
+    "description": "A stylish and spacious women's tote bag made from durable faux leather. It features multiple compartments and a detachable shoulder strap. Available in various colors.",
+    "category_id": "d022r8Dg2qjYnQ5U8cTK",
+    "quantity": 80,
+    "images": [
+     
+        "https://www.thegusto.in/cdn/shop/files/1_b478bd9d-7b15-4a1b-aa18-9d03f9c7ec77.jpg?v=1707502972&width=700"
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Faux Leather"
+        },
+        {
+            "title": "Compartments",
+            "value": "Multiple"
+        },
+        {
+            "title": "Strap",
+            "value": "Detachable Shoulder Strap"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Black", "Brown", "Navy Blue", "Gray"]
+        }
+    ],
+    "other_details": "This women's tote bag is perfect for carrying daily essentials and adds a touch of sophistication to any outfit."
 }
 
 
