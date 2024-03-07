@@ -137,9 +137,9 @@
             "category_id": "0gjE9MNUrOXIL9urZTbH",
             "quantity": 999,
             "images": [
-                "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_2__5.webp",
-                "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_7__1.webp",
-                "https://www.techone.vn/wp-content/uploads/2023/09/iphone-15-pro-max_5__1.webp"
+                "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-5g-3.jpg",
+                "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-5g-1.jpg",
+                "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-5g-2.jpg"
             ],
             "specifications": [
                 {
@@ -147,15 +147,15 @@
                     "value": [
                         {
                             "feature": "Resolution",
-                            "feature_value": "2796 x 1290 Pixels"
+                            "feature_value": "2710 x 1220 Pixels"
                         },
                         {
                             "feature": "Screen Size",
-                            "feature_value": "6.7 inch"
+                            "feature_value": "6.67 inch"
                         },
                         {
                             "feature": "Pannel",
-                            "feature_value": "OLED, Super Retina XDR"
+                            "feature_value": "AMOLED, Dolby Vision"
                         }
                         
                     ]
@@ -165,8 +165,8 @@
                     "title": "Camera",
                     "value": [
                         {
-                            "feature": "Megapixels",
-                            "feature_value": "48.0 MP + 12.0 MP + 12.0 MP"
+                            "feature": "Dual-LED dual-tone flash, HDR, panorama",
+                            "feature_value": "200 MP + 8 MP + 2 MP"
                         }                      
                     ]
                    
@@ -176,7 +176,7 @@
                     "value": [
                         {
                             "feature": "RAM",
-                            "feature_value": "8 GB"
+                            "feature_value": "12 GB"
                         }, 
                         {
                             "feature": "ROM",
@@ -184,7 +184,7 @@
                         },  
                         {
                             "feature": "CPU",
-                            "feature_value": "Apple A17 Pr"
+                            "feature_value": "Octa-core "
                         }                  
                     ]
                    
