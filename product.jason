@@ -592,6 +592,321 @@
     ],
     "other_details": "The MacBook Pro 16-inch offers a stunning display, powerful performance, and a range of advanced features. It's perfect for demanding tasks like video editing, 3D rendering, and music production."
 },
+{
+    "name": "Men's T-Shirt",
+    "price": 1999,
+    "description": "A classic and comfortable men's t-shirt made from soft cotton fabric. It features a crew neckline and short sleeves. Available in various colors and sizes.",
+    "category_id": "nqUWi9cxU71jPU5grF5b",
+    "quantity": 100,
+    "images": [
+        "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67085980_48.jpg?ts=1705917782366&imwidth=502&imdensity=2"
+        "https://st.mngbcn.com/rcs/pics/static/T6/fotos/S20/67085980_48_R.jpg?ts=1705910600049&imwidth=502&imdensity=2"
+     
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "100% Cotton"
+        },
+        {
+            "title": "Neckline",
+            "value": "Crew Neck"
+        },
+        {
+            "title": "Sleeve Length",
+            "value": "Short Sleeve"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Black", "White", "Navy Blue", "Gray"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["S", "M", "L", "XL"]
+        }
+    ],
+    "other_details": "This men's t-shirt is a versatile wardrobe staple that can be dressed up or down for various occasions."
+},
+{
+    "name": "Men's Jeans",
+    "price": 3999,
+    "description": "Classic men's jeans made from durable denim fabric. It features a straight fit and a mid-rise waist. Available in various sizes and washes.",
+    "category_id": "nqUWi9cxU71jPU5grF5b",
+    "quantity": 80,
+    "images": [
+        "https://lsco.scene7.com/is/image/lsco/005140831-front-gstk?fmt=webp&qlt=70&resMode=bisharp&fit=crop,1&op_usm=0.6,0.6,8&wid=880&hei=968",
+        "https://lsco.scene7.com/is/image/lsco/005140831-dynamic1-pdp?fmt=webp&qlt=70&resMode=bisharp&fit=crop,1&op_usm=0.6,0.6,8&wid=880&hei=968",
+        
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Denim"
+        },
+        {
+            "title": "Fit",
+            "value": "Straight Fit"
+        },
+        {
+            "title": "Waist",
+            "value": "Mid-Rise"
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["28W x 30L", "30W x 32L", "32W x 32L", "34W x 34L"]
+        },
+        {
+            "title": "Available Washes",
+            "value": ["Dark Blue", "Light Blue", "Black"]
+        }
+    ],
+    "other_details": "These men's jeans offer a timeless style and are designed for both comfort and durability."
+},
+{
+    "name": "Men's Dress Shirt",
+    "price": 2999,
+    "description": "A sophisticated men's dress shirt made from high-quality cotton. It features a button-down collar and long sleeves. Available in various colors and sizes.",
+    "category_id": "nqUWi9cxU71jPU5grF5b",
+    "quantity": 70,
+    "images": [
+        "https://oldnavy.gap.com/webcontent/0050/591/476/cn50591476.jpg",
+        "hhttps://oldnavy.gap.com/webcontent/0050/602/127/cn50602127.jpg",
+       
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "100% Cotton"
+        },
+        {
+            "title": "Collar",
+            "value": "Button-Down"
+        },
+        {
+            "title": "Sleeve Length",
+            "value": "Long Sleeve"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["White", "Blue", "Pink", "Gray"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["S", "M", "L", "XL"]
+        }
+    ],
+    "other_details": "This men's dress shirt is perfect for formal occasions and can be paired with a suit or dress pants."
+},
+
+{
+    "name": "Men's Polo Shirt",
+    "price": 2499,
+    "description": "A classic men's polo shirt made from soft and breathable fabric. It features a ribbed collar and short sleeves. Available in various colors and sizes.",
+    "category_id": "nqUWi9cxU71jPU5grF5b",
+    "quantity": 90,
+    "images": [
+        "https://images.hugoboss.com/is/image/boss/hbna50500222_618_100?$re_fullPageZoom$&qlt=85&fit=crop,1&align=1,1&lastModified=1698939589000&wid=1440&hei=2182&fmt=webp"
+        "https://images.hugoboss.com/is/image/boss/hbna50500222_618_350?$re_fullPageZoom$&qlt=85&fit=crop,1&align=1,1&lastModified=1698939589000&wid=1440&hei=2182&fmt=webp"
+        
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Polyester Blend"
+        },
+        {
+            "title": "Collar",
+            "value": "Ribbed Collar"
+        },
+        {
+            "title": "Sleeve Length",
+            "value": "Short Sleeve"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Black", "White", "Navy Blue", "Red"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["S", "M", "L", "XL"]
+        }
+    ],
+    "other_details": "This men's polo shirt offers a comfortable and versatile option for both casual and semi-formal settings."
+},
+{
+    "name": "Men's Leather Jacket",
+    "price": 5999,
+    "description": "A stylish men's leather jacket made from genuine leather. It features a front zipper closure and multiple pockets. Available in various sizes and colors.",
+    "category_id": "nqUWi9cxU71jPU5grF5b",
+    "quantity": 50,
+    "images": [
+        "https://i0.wp.com/www.theleatherjacketer.com/storage/2020/02/Mens-Black-Plane-Simple-Biker-Leather-Jacket-0003-4.jpg?fit=800%2C800&ssl=1",
+        "https://i0.wp.com/www.theleatherjacketer.com/storage/2020/02/Mens-Black-Plane-Simple-Biker-Leather-Jacket-0003-1.jpg?fit=800%2C800&ssl=1",
+    
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Genuine Leather"
+        },
+        {
+            "title": "Closure",
+            "value": "Zipper"
+        },
+        {
+            "title": "Pockets",
+            "value": "Multiple Pockets"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Black", "Brown", "Dark Gray"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["S", "M", "L", "XL"]
+        }
+    ],
+    "other_details": "This men's leather jacket adds a touch of rugged sophistication to any outfit and is perfect for cooler weather."
+},
+{
+    "name": "Men's Sneakers",
+    "price": 2999,
+    "description": "Comfortable and stylish men's sneakers made from breathable mesh and synthetic materials. They feature a lace-up closure and a cushioned sole. Available in various sizes and colors.",
+    "category_id": "nqUWi9cxU71jPU5grF5b",
+    "quantity": 120,
+    "images": [
+        "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_3084,w_4626,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/shutterstock_1123158938_uvcada.jpg",
+        "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed0855435194229a525aad6009a0497_9366/Superstar_Shoes_White_EG4958_01_standard.jpg",
+        "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f176d2011687473d8bda919b6702746e_9366/Superstar_Shoes_Green_IF3633_01_standard.jpg"
+       
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Mesh, Synthetic"
+        },
+        {
+            "title": "Closure",
+            "value": "Lace-Up"
+        },
+        {
+            "title": "Sole",
+            "value": "Cushioned"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Black", "White", "Gray", "Blue"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["8", "9", "10", "11"]
+        }
+    ],
+    "other_details": "These men's sneakers combine comfort and style, making them perfect for everyday wear or casual occasions."
+},
+
+{
+    "name": "Men's Chino Pants",
+    "price": 3499,
+    "description": "Classic men's chino pants made from a comfortable cotton blend. They feature a straight leg and a mid-rise waist. Available in various sizes and colors.",
+    "category_id": "nqUWi9cxU71jPU5grF5b",
+    "quantity": 60,
+    "images": [
+        "https://www.express.com/content/dam/express/2023/projects/web/category-inline/11-november/1030-floorset/27794-m-chinos/-dt/m-chinos-nav-3-dt.png",
+        "https://www.express.com/content/dam/express/2023/projects/web/category-inline/11-november/1030-floorset/27794-m-chinos/-dt/m-chinos-nav-4-dt.png",
+       
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Cotton Blend"
+        },
+        {
+            "title": "Fit",
+            "value": "Straight Leg"
+        },
+        {
+            "title": "Waist",
+            "value": "Mid-Rise"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Khaki", "Navy Blue", "Gray", "Beige"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["30W x 32L", "32W x 32L", "34W x 34L", "36W x 34L"]
+        }
+    ],
+    "other_details": "These men's chino pants offer a versatile and polished look that can be dressed up or down for various occasions."
+},
+
+{
+    "name": "Men's Dress Shoes",
+    "price": 5999,
+    "description": "Elegant men's dress shoes made from genuine leather. They feature a lace-up closure and a sleek design. Available in various sizes and colors.",
+    "category_id": "nqUWi9cxU71jPU5grF5b",
+    "quantity": 40,
+    "images": [
+        "https://www.travelandleisure.com/thmb/8c_AZ6Z27dqWM8hNvm65VnYII48=/fit-in/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/thursday-boot-co-cavalier-chelsea-boot-d4edecc4928f4171b17a8dfc14993780.jpg",
+        "https://www.travelandleisure.com/thmb/PrgPowjzIlE0kFlLONrs2-7OvLA=/fit-in/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nordstrom-cole-haan-original-grand-wingtip-derby-092fc10e6bc9455d8a8a1d60668c0db4.jpg",
+      
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Genuine Leather"
+        },
+        {
+            "title": "Closure",
+            "value": "Lace-Up"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Black", "Brown", "Tan"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["8", "9", "10", "11"]
+        }
+    ],
+    "other_details": "These men's dress shoes are perfect for formal occasions and add a touch of sophistication to any outfit."
+},
+
+{
+    "name": "Men's Hoodie",
+    "price": 2999,
+    "description": "A comfortable and casual men's hoodie made from soft and warm fabric. It features a hood with drawstrings and a kangaroo pocket. Available in various sizes and colors.",
+    "category_id": "nqUWi9cxU71jPU5grF5b",
+    "quantity": 80,
+    "images": [
+        "https://neutral.com/cdn/shop/products/1_8fe131c4-28c8-47a2-b9d1-d08efb36ea61_1024x1024.jpg?v=1672242299",
+       
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Cotton Blend"
+        },
+        {
+            "title": "Hood",
+            "value": "Yes"
+        },
+        {
+            "title": "Pocket",
+            "value": "Kangaroo Pocket"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Black", "Gray", "Navy Blue", "Green"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["S", "M", "L", "XL"]
+        }
+    ],
+    "other_details": "This men's hoodie is a cozy and versatile option for casual outings or lounging at home."
+}
 
 
 ]
