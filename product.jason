@@ -906,6 +906,242 @@
         }
     ],
     "other_details": "This men's hoodie is a cozy and versatile option for casual outings or lounging at home."
+},
+
+{
+    "name": "Women's Sundress",
+    "price": 4499,
+    "description": "A stylish and comfortable women's sundress made from lightweight fabric. It features a floral print and a relaxed fit. Available in various sizes and colors.",
+    "category_id": "d022r8Dg2qjYnQ5U8cTK",
+    "quantity": 50,
+    "images": [
+        "https://m.media-amazon.com/images/I/71QMCW+8CcL._AC_SY741_.jpg",
+       
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Polyester"
+        },
+        {
+            "title": "Print",
+            "value": "Floral"
+        },
+        {
+            "title": "Fit",
+            "value": "Relaxed"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Blue", "Pink", "Yellow", "Green"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["XS", "S", "M", "L"]
+        }
+    ],
+    "other_details": "This women's sundress is perfect for summer days and can be dressed up or down for various occasions."
+},
+{
+    "name": "Women's Blouse",
+    "price": 2999,
+    "description": "A fashionable women's blouse made from lightweight and breathable fabric. It features a v-neckline and short sleeves. Available in various sizes and colors.",
+    "category_id": "d022r8Dg2qjYnQ5U8cTK",
+    "quantity": 60,
+    "images": [
+        "https://i.ebayimg.com/images/g/QsMAAOSw~45keVuJ/s-l1600.jpg",
+        
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Polyester"
+        },
+        {
+            "title": "Neckline",
+            "value": "V-Neck"
+        },
+        {
+            "title": "Sleeve Length",
+            "value": "Short Sleeves"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["White", "Black", "Red", "Blue"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["S", "M", "L", "XL"]
+        }
+    ],
+    "other_details": "This women's blouse is a versatile piece that can be paired with jeans or skirts for both casual and formal occasions."
+},
+
+{
+    "name": "Women's Jeans",
+    "price": 5999,
+    "description": "Classic women's jeans made from stretch denim for a comfortable fit. They feature a skinny leg and a mid-rise waist. Available in various sizes and washes.",
+    "category_id": "d022r8Dg2qjYnQ5U8cTK",
+    "quantity": 70,
+    "images": [
+        "https://m.media-amazon.com/images/I/61-vP6ebPbL._AC_SY741_.jpg"
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Denim"
+        },
+        {
+            "title": "Fit",
+            "value": "Skinny Leg"
+        },
+        {
+            "title": "Waist",
+            "value": "Mid-Rise"
+        },
+        {
+            "title": "Available Washes",
+            "value": ["Light Blue", "Dark Blue", "Black", "Gray"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["24W x 30L", "26W x 30L", "28W x 32L", "30W x 32L"]
+        }
+    ],
+    "other_details": "These women's jeans offer a flattering and versatile option for everyday wear."
+},
+{
+    "name": "Women's Maxi Dress",
+    "price": 6999,
+    "description": "A stunning women's maxi dress made from flowy and lightweight fabric. It features a halter neckline and a vibrant print. Available in various sizes and patterns.
+```python
+{
+    "name": "Women's Maxi Dress",
+    "price": 6999,
+    "description": "A stunning women's maxi dress made from flowy and lightweight fabric. It features a halter neckline and a vibrant print. Available in various sizes and patterns.",
+    "category_id": "d022r8Dg2qjYnQ5U8cTK",
+    "quantity": 60,
+    "images": [
+        
+        "https://m.media-amazon.com/images/I/71e2iaDFyVL._AC_SY550_.jpg"
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Polyester"
+        },
+        {
+            "title": "Neckline",
+            "value": "Halter"
+        },
+        {
+            "title": "Print",
+            "value": "Vibrant"
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["XS", "S", "M", "L"]
+        }
+    ],
+    "other_details": "This women's maxi dress is perfect for special occasions or a stylish day out."
+},
+{
+    "name": "Women's Cardigan",
+    "price": 3999,
+    "description": "A cozy and versatile women's cardigan made from soft and warm knit fabric. It features an open front and long sleeves. Available in various sizes and colors.",
+    "category_id": "d022r8Dg2qjYnQ5U8cTK",
+    "quantity": 80,
+    "images": [
+       
+        "https://m.media-amazon.com/images/I/71MmJo7T8cL._AC_SY741_.jpg"
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Knit"
+        },
+        {
+            "title": "Closure",
+            "value": "Open Front"
+        },
+        {
+            "title": "Sleeve Length",
+            "value": "Long Sleeves"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["Gray", "Black", "Beige", "Navy Blue"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["S", "M", "L", "XL"]
+        }
+    ],
+    "other_details": "This women's cardigan is a must-have layering piece for cooler days and adds a touch of style to any outfit."
+},
+{
+    "name": "Women's Skirt",
+    "price": 3499,
+    "description": "A versatile women's skirt made from lightweight fabric. It features a high waist and a flared silhouette. Available in various sizes and patterns.",
+    "category_id": "d022r8Dg2qjYnQ5U8cTK",
+    "quantity": 70,
+    "images": [
+        
+        "https://www.wilson.com/en-us/media/catalog/product/article_images/WW00065331DKC_/WW00065331DKC__f0584c0b2b31a6464afb9d8e698c2b1d.png?dpr=1&fit=bounds&orient=1&quality=95&optimize=high&format=pjpg&auto=webp&enable=upscale&width=778&height=950&canvas=778%2C950&bg-color=f5f5f5"
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Polyester"
+        },
+        {
+            "title": "Waist",
+            "value": "High"
+        },
+        {
+            "title": "Silhouette",
+            "value": "Flared"
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["XS", "S", "M", "L"]
+        }
+    ],
+    "other_details": "This women's skirt can be dressed up with heels or dressed down with sneakers for a chic and feminine look."
+},
+{
+    "name": "Women's Sneakers",
+    "price": 5999,
+    "description": "Comfortable and stylish women's sneakers made from breathable fabric. They feature a lace-up closure and a cushioned sole. Available in various sizes and colors.",
+    "category_id": "d022r8Dg2qjYnQ5U8cTK",
+    "quantity": 100,
+    "images": [
+       
+        "https://lugz.com/wp-content/uploads/2022/08/WEXPRSV-100_lifestyle-600x600.jpg"
+    ],
+    "specifications": [
+        {
+            "title": "Material",
+            "value": "Fabric"
+        },
+        {
+            "title": "Closure",
+            "value": "Lace-Up"
+        },
+        {
+            "title": "Sole",
+            "value": "Cushioned"
+        },
+        {
+            "title": "Available Colors",
+            "value": ["White", "Black", "Gray", "Pink"]
+        },
+        {
+            "title": "Available Sizes",
+            "value": ["5", "6", "7", "8"]
+        }
+    ],
+    "other_details": "These women's sneakers are perfect for casual everyday wear and provide both comfort and style."
 }
 
 
