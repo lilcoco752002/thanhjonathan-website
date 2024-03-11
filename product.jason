@@ -1207,7 +1207,279 @@
         }
     ],
     "other_details": "This women's tote bag is perfect for carrying daily essentials and adds a touch of sophistication to any outfit."
-}
+},
+{
+    "name": "Men's Stainless Steel Watch",
+    "price": 199,
+    "description": "A sleek and elegant men's watch with a stainless steel bracelet. It features a black dial with luminous hands and markers. Water-resistant up to 50 meters.",
+    "category_id": "CBM6wJ7TAtpYju8cznnW",
+    "quantity": 50,
+    "images": [
+        "https://cdn.luxshopping.vn/Thumnails/Uploads/News/-citizen-men-s-stainless-steel-eco-drive-watch-42mm.png_980_980.webp",
+        "https://cdn.luxshopping.vn/Thumnails/Uploads/News/-citizen-men-s-stainless-steel-eco-drive-watch-42mm1.jpg.webp"
+     
+    ],
+    "specifications": [
+        {
+            "title": "Case Material",
+            "value": "Stainless Steel"
+        },
+        {
+            "title": "Bracelet Material",
+            "value": "Stainless Steel"
+        },
+        {
+            "title": "Dial Color",
+            "value": "Black"
+        },
+        {
+            "title": "Water Resistance",
+            "value": "50 meters"
+        }
+    ],
+    "other_details": "This men's stainless steel watch is a perfect blend of style and functionality, suitable for both casual and formal occasions."
+},
+{
+    "name": "Women's Leather Strap Watch",
+    "price": 149,
+    "description": "A chic women's watch with a genuine leather strap and a rose gold-tone case. It features a white dial with Roman numeral markers. Suitable for everyday wear.",
+    "category_id": "CBM6wJ7TAtpYju8cznnW",
+    "quantity": 80,
+    "images": [
+        "https://www.watchesandcrystals.com/cdn/shop/articles/a-simple-leather-strap-ladies-watch-a-must-have-in-your-wardrobe-209589.jpg?v=1661494728",
+        "https://cdn.shopify.com/s/files/1/0063/5165/0905/files/Look_for_the_trend_in_ladies_watches.jpg?v=1603653895"
+    ],
+    "specifications": [
+        {
+            "title": "Case Material",
+            "value": "Rose Gold-Tone"
+        },
+        {
+            "title": "Strap Material",
+            "value": "Genuine Leather"
+        },
+        {
+            "title": "Dial Color",
+            "value": "White"
+        },
+        {
+            "title": "Movement",
+            "value": "Quartz"
+        }
+    ],
+    "other_details": "This women's leather strap watch adds a touch of sophistication to any outfit and is perfect for everyday use."
+},
+{
+    "name": "Men's Diver's Watch",
+    "price": 299,
+    "description": "A durable men's diver's watch with a stainless steel case and a rubber strap. It features a unidirectional rotating bezel and luminous hands and markers. Water-resistant up to 200 meters.",
+    "category_id": "CBM6wJ7TAtpYju8cznnW",
+    "quantity": 60,
+    "images": [
+        "https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Citizen-Promaster-Diver-2_5ea69d2f-e1ea-428e-8c5c-76042ee21102.jpg?v=1664302229",
+        "https://cdn.sanity.io/images/osq1egmp/production/1028ffcdd293f875b95e0950281d432c1df4fa25-1000x500.jpg?w=2000&auto=format&q=75"       
+    ],
+    "specifications": [
+        {
+            "title": "Case Material",
+            "value": "Stainless Steel"
+        },
+        {
+            "title": "Strap Material",
+            "value": "Rubber"
+        },
+        {
+            "title": "Bezel",
+            "value": "Unidirectional Rotating"
+        },
+        {
+            "title": "Water Resistance",
+            "value": "200 meters"
+        }
+    ],
+    "other_details": "This men's diver's watch is built to withstand the rigors of underwater exploration and is a reliable companion for diving enthusiasts."
+},
+{
+    "name": "Women's Ceramic Watch",
+    "price": 249,
+    "description": "A sophisticated women's watch with a white ceramic bracelet and a silver-tone case. It features a mother-of-pearl dial with diamond accents. Suitable for special occasions.",
+    "category_id": "CBM6wJ7TAtpYju8cznnW",
+    "quantity": 70,
+    "images": [
+        "https://m.media-amazon.com/images/I/81C9OcWfcNL._AC_SY741_.jpg",
+        "https://m.media-amazon.com/images/I/91eA9FBgT5L._AC_SX679_.jpg",
+    ],
+    "specifications": [
+        {
+            "title": "Case Material",
+            "value": "Silver-Tone"
+        },
+        {
+            "title": "Bracelet Material",
+            "value": "Ceramic"
+        },
+        {
+            "title": "Dial Color",
+            "value": "Mother-of-Pearl"
+        },
+        {
+            "title": "Accents",
+            "value": "Diamond"
+        }
+    ],
+    "other_details": "This women's ceramic watch exudes elegance and luxury, making it a perfect accessory for special events and formal occasions."
+},
+{
+    "name": "Men's Chronograph Watch",
+    "price": 179,
+    "description": "A stylish men's chronograph watch with a stainless steel case and a brown leather strap. It features a black dial with three subdials and a date window. Water-resistant up to 100 meters.",
+    "category_id": "CBM6wJ7TAtpYju8cznnW",
+    "quantity": 90,
+    "images": [
+        "https://www.g-store.vn/wp-content/uploads/2020/11/MRG-B2000SH-5A.png",
+        "https://www.g-store.vn/wp-content/uploads/2021/10/EF-550D-1AV.png"
+    ],
+    "specifications": [
+        {
+            "title": "Case Material",
+            "value": "Stainless Steel"
+        },
+        {
+            "title": "Strap Material",
+            "value": "Leather"
+        },
+        {
+            "title": "Dial Color",
+            "value": "Black"
+        },
+        {
+            "title": "Water Resistance",
+            "value": "100 meters"
+        }
+    ],
+    "other_details": "This men's chronograph watch combines functionality with a sophisticated design, making it a versatile accessory for any occasion."
+},
+{
+    "name": "Women's Fashion Watch Set",
+    "price": 129,
+    "description": "A trendy women's watch set featuring three interchangeable straps in different colors. The watch has a gold-tone case and a white dial with crystal hour markers. Perfect for creating versatile looks.",
+    "category_id": "CBM6wJ7TAtpYju8cznnW",
+    "quantity": 120,
+    "images": [
+        "https://m.media-amazon.com/images/I/81PrmvhOIVL._AC_SY741_.jpg",
+        "https://m.media-amazon.com/images/I/71owhKpQtmL._AC_SX569_.jpg"
+    ],
+    "specifications": [
+        {
+            "title": "Case Material",
+            "value": "Gold-Tone"
+        },
+        {
+            "title": "Dial Color",
+            "value": "White"
+        },
+        {
+            "title": "Strap Colors",
+            "value": "Black, Brown, Pink"
+        },
+        {
+            "title": "Markers",
+            "value": "Crystal"
+        }
+    ],
+    "other_details": "This women's fashion watch set allows you to mix and match straps to create different looks for various occasions, adding versatility to your style."
+},
+{
+    "name": "Men's Smartwatch",
+    "price": 299,
+    "description": "A high-tech men's smartwatch with a stainless steel case and a black silicone strap. It features a touchscreen display, fitness tracking, and smartphone connectivity. Water-resistant.",
+    "category_id": "CBM6wJ7TAtpYju8cznnW",
+    "quantity": 70,
+    "images": [
+        "https://antien.vn/uploaded/Garmin%20Fenix%207%20-%20Sapphire%20Solar%2C%20Carbon%20Gary%20DLC%20Ti%20with%20Black%20Silicone%20Band/dong-ho-Garmin-Fenix-7-Sapphire-Solar-antien.jpg",
+        "https://antien.vn/uploaded/Garmin%20Fenix%207%20-%20Sapphire%20Solar%2C%20Carbon%20Gary%20DLC%20Ti%20with%20Black%20Silicone%20Band/dong-ho-Garmin-Fenix-7-Sapphire-Solar-Carbon-Gary-DLC-Ti-with-Black-Silicone-Band--antien.jpg"
+    ],
+    "specifications": [
+        {
+            "title": "Case Material",
+            "value": "Stainless Steel"
+        },
+        {
+            "title": "Strap Material",
+            "value": "Silicone"
+        },
+        {
+            "title": "Display",
+            "value": "Touchscreen"
+        },
+        {
+            "title": "Features",
+            "value": "Fitness Tracking, Smartphone Connectivity"
+        }
+    ],
+    "other_details": "This men's smartwatch combines style and functionality, allowing you to stay connected and track your fitness goals with ease."
+},
+{
+    "name": "Men's Leather Strap Chronograph Watch",
+    "price": 249,
+    "description": "A classic men's chronograph watch with a stainless steel case and a brown leather strap. It features a black dial with three subdials and a date window. Water-resistant up to 50 meters.",
+    "category_id": "CBM6wJ7TAtpYju8cznnW",
+    "quantity": 60,
+    "images": [
+        "https://webassets.ashford.com/images/web/hamilton/H32342595_FXA.jpg",
+        "https://webassets.ashford.com/images/web/hamilton/H32342595_BXA.jpg"
+    ],
+    "specifications": [
+        {
+            "title": "Case Material",
+            "value": "Stainless Steel"
+        },
+        {
+            "title": "Strap Material",
+            "value": "Leather"
+        },
+        {
+            "title": "Dial Color",
+            "value": "Black"
+        },
+        {
+            "title": "Water Resistance",
+            "value": "50 meters"
+        }
+    ],
+    "other_details": "This men's leather strap chronograph watch combines style and functionality, making it a great accessory for any occasion."
+},
+{
+    "name": "Women's Stainless Steel Bracelet Watch",
+    "price": 179,
+    "description": "A stylish women's watch with a stainless steel bracelet and a rose gold-tone case. It features a silver dial with crystal hour markers. Water-resistant up to 30 meters.",
+    "category_id": "CBM6wJ7TAtpYju8cznnW",
+    "quantity": 80,
+    "images": [
+        "https://webassets.ashford.com/images/web/maurice_lacroix/LC6063-SS002-310_FXA.jpg"
+
+    ],
+    "specifications": [
+        {
+            "title": "Case Material",
+            "value": "Rose Gold-Tone"
+        },
+        {
+            "title": "Bracelet Material",
+            "value": "Stainless Steel"
+        },
+        {
+            "title": "Dial Color",
+            "value": "Silver"
+        },
+        {
+            "title": "Water Resistance",
+            "value": "30 meters"
+        }
+    ],
+    "other_details": "This women's stainless steel bracelet watch is a versatile accessory that adds a touch of elegance to any outfit."
+},
+
 
 
 ]
