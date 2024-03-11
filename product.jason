@@ -1751,9 +1751,8 @@
     "category_id": "z0uoUEw6jmBrA5ol8hqc",
     "quantity": 50,
     "images": [
-        "https://www.example.com/images/facial-cleanser-1.jpg",
-        "https://www.example.com/images/facial-cleanser-2.jpg",
-        "https://www.example.com/images/facial-cleanser-3.jpg"
+        "https://mediworld.vn/wp-content/uploads/2022/07/Facial-Cleanser.jpg",
+        "https://mediworld.vn/wp-content/uploads/2022/07/Facial-Cleanser-Full.jpg"
     ],
     "specifications": [
         {
@@ -1770,6 +1769,397 @@
         }
     ],
     "other_details": "Achieve clean and refreshed skin with this facial cleanser. It leaves your skin feeling soft, smooth, and free from impurities."
+},
+
+{
+    "name": "Hair Dryer",
+    "price": 39.99,
+    "description": "A high-performance hair dryer that dries your hair quickly while minimizing heat damage. It features multiple heat and speed settings for customized styling.",
+    "category_id": "z0uoUEw6jmBrA5ol8hqc",
+    "quantity": 20,
+    "images": [
+        "https://manhnguyen.com/wp-content/uploads/2023/08/may-say-toc-cao-cap-dang-bua-hair-dryer-Thumb.jpg"
+    ],
+    "specifications": [
+        {
+            "title": "Wattage",
+            "value": "1875 Watts"
+        },
+        {
+            "title": "Heat Settings",
+            "value": "3 levels"
+        },
+        {
+            "title": "Speed Settings",
+            "value": "2 levels"
+        }
+    ],
+    "other_details": "Achieve salon-quality results at home with this powerful hair dryer. It's lightweight and easy to handle, making it perfect for everyday styling."
+},
+
+{
+    "name": "Face Moisturizer",
+    "price": 24.99,
+    "description": "A hydrating face moisturizer that nourishes and replenishes the skin. It helps improve skin texture and promotes a healthy-looking complexion.",
+    "category_id": "z0uoUEw6jmBrA5ol8hqc",
+    "quantity": 30,
+    "images": [
+        "https://media.hcdn.vn/catalog/product/p/r/promotions-auto-kem-duong-cerave-cho-da-kho-den-rat-kho-50ml_rL7LBU6T2AEwNuz7_img_358x358_843626_fit_center.png"
+
+    ],
+    "specifications": [
+        {
+            "title": "Skin Type",
+            "value": "All skin types"
+        },
+        {
+            "title": "Size",
+            "value": "50 ml"
+        },
+        {
+            "title": "Ingredients",
+            "value": "Hyaluronic acid, vitamin E, jojoba oil"
+        }
+    ],
+    "other_details": "Keep your skin hydrated and supple with this face moisturizer. Its lightweight formula absorbs quickly, leaving your skin feeling smooth and refreshed."
+},
+
+{
+    "name": "Electric Toothbrush",
+    "price": 29.99,
+    "description": "An electric toothbrush that provides superior plaque removal and gum care. It features multiple brushing modes and a built-in timer for effective oral hygiene.",
+    "category_id": "z0uoUEw6jmBrA5ol8hqc",
+    "quantity": 15,
+    "images": [
+        "https://classic.vn/wp-content/uploads/2023/03/1-91416.jpeg",
+        "https://classic.vn/wp-content/uploads/2023/03/1-82098.jpeg"
+    ],
+    "specifications": [
+        {
+            "title": "Brushing Modes",
+            "value": "Clean, sensitive, gum care"
+        },
+        {
+            "title": "Battery Life",
+            "value": "Up to 2 weeks"
+        },
+        {
+            "title": "Includes",
+            "value": "2 brush heads, chargingExample 5: Bath Bombs Set
+        }
+    ],
+    "other_details": "Electric toothbrush Oral-B iO Series 6 electric toothbrush gives you a deep oral cleaning experience and removes stubborn plaque with powerful yet gentle combination of sonic and vibration technology. gentle with teeth."
+},
+{
+    "name": "Bath Bombs Set",
+    "price": 19.99,
+    "description": "A set of luxurious bath bombs that add a delightful scent and fizz to your bathwater. Each bath bomb is infused with moisturizing ingredients to leave your skin feeling soft and hydrated.",
+    "category_id": "z0uoUEw6jmBrA5ol8hqc",
+    "quantity": 25,
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/71-Cr-K4QoL.SS456.jpg"
+
+    ],
+    "specifications": [
+        {
+            "title": "Number of Bath Bombs",
+            "value": "6"
+        },
+        {
+            "title": "Scents",
+            "value": "Lavender, eucalyptus, rose, citrus, vanilla, ocean breeze"
+        },
+        {
+            "title": "Ingredients",
+            "value": "Epsom salt, essential oils, shea butter"
+        }
+    ],
+    "other_details": "Indulge in a relaxing and aromatic bath experience with these bath bombs. They make a perfect gift for yourself or a loved one."
+},
+
+{
+    "name": "Yoga Mat",
+    "price": 29.99,
+    "description": "A high-quality yoga mat that provides cushioning and stability for your yoga and fitness practices. It has a non-slip surface and is easy to clean and carry.",
+    "category_id": "z0uoUEw6jmBrA5ol8hqc",
+    "quantity": 20,
+    "images": [
+        "https://cdn.yousport.vn/Media/Products/011021085052235/tham-tap-sp-yoga-mat-tpe-2-lop-10mm.png",
+        "https://cdn.yousport.vn/Media/Products/011021085052235/atts_55839-tham-sp-yoga-mat-tpe-2-lop-6mm-o.png"
+    
+    ],
+    "specifications": [
+        {
+            "title": "Thickness",
+            "value": "6 mm"
+        },
+        {
+            "title": "Material",
+            "value": "PVC"
+        },
+        {
+            "title": "Dimensions",
+            "value": "72 inches x 24 inches"
+        }
+    ],
+    "other_details": "Enhance your yoga practice with this comfortable and durable yoga mat. Its non-slip surface helps you maintain stability and balance during your exercises."
+},
+
+{
+    "name": "Facial Mask",
+    "price": 9.99,
+    "description": "A nourishing facial mask that deeply hydrates and revitalizes the skin. It helps improve skin elasticity and leaves your skin feeling refreshed and rejuvenated.",
+    "category_id": "z0uoUEw6jmBrA5ol8hqc",
+    "quantity": 40,
+    "images": [
+        "https://m.media-amazon.com/images/I/61WZvj8WHvL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61oI2D5rReL._AC_SX679_.jpg"
+     
+    ],
+    "specifications": [
+        {
+            "title": "Skin Type",
+            "value": "All skin types"
+        },
+        {
+            "title": "Ingredients",
+            "value": "Hyaluronic acid, collagen, green tea extract"
+        },
+        {
+            "title": "Number of Masks",
+            "value": "5"
+        }
+    ],
+    "other_details": "Treat yourself to a spa-like experience at home with this indulgent facial mask. It's the perfect way to pamper your skin and unwind after a long day."
+},
+
+{
+    "name": "Electric Shaver",
+    "price": 49.99,
+    "description": "An advanced electric shaver that provides a close and comfortable shave. It features precision blades and a flexible shaving head for a smooth and effortless shaving experience.",
+    "category_id": "z0uoUEw6jmBrA5ol8hqc",
+    "quantity": 15,
+    "images": [
+        "https://m.media-amazon.com/images/I/61pe8l9TKXL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/61STmoSI-mL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+
+    ],
+    "specifications": [
+        {
+            "title": "Blade Type",
+            "value": "Rotary"
+        },
+        {
+            "title": "Battery Life",
+            "value": "Up to 60 minutes"
+        },
+        {
+            "title": "Waterproof",
+            "value": "Yes"
+        }
+ ],
+    "other_details": "【Shaved Closer with 3 Shaving Blades】- Foil Electric Shavers floating system with 3 Shaving Blades, adapts to facial contours for a more closer shaving and make shaving easy. Smoother and more comfortable."
+},
+{
+    "name": "Fitness Tracker",
+    "price": 79.99,
+    "description": "A smart fitness tracker that monitors your daily activities, heart rate, and sleep quality. It provides real-time data and personalized insights to help you achieve your fitness goals.",
+    "category_id": "z0uoUEw6jmBrA5ol8hqc",
+    "quantity": 10,
+    "images": [
+        "https://contents.mediadecathlon.com/p2258499/deca82042d19129df3fb400efa6286a6/p2258499.jpg?f=650x650&format=auto",
+        "https://contents.mediadecathlon.com/p2258497/9aa4de34a2dc9a6bd2665aad37afc184/p2258497.jpg?f=650x650&format=auto"
+       
+    ],
+    "specifications": [
+        {
+            "title": "Display",
+            "value": "1.3-inch OLED"
+        },
+        {
+            "title": "Battery Life",
+            "value": "Up to 7 days"
+        },
+        {
+            "title": "Waterproof",
+            "value": "Yes"
+        }
+    ],
+    "other_details": "Stay motivated and track your progress with this feature-packed fitness tracker. It helps you stay active, monitor your health, and achieve a balanced lifestyle."
+},
+
+{
+    "name": "Makeup Brush Set",
+    "price": 29.99,
+    "description": "A comprehensive set of professional makeup brushes for flawless makeup application. It includes brushes for foundation, blush, eyeshadow, and more, housed in a stylish carrying case.",
+    "category_id": "z0uoUEw6jmBrA5ol8hqc",
+    "quantity": 20,
+    "images": [
+        "https://cdn-amz.woka.io/images/I/715BUa3vqSL._SR900,900_.jpg",
+        "https://cdn-amz.woka.io/images/I/71y-YbL47KL._SR900,900_.jpg"
+   
+    ],
+    "specifications": [
+        {
+            "title": "Number of Brushes",
+            "value": "12"
+        },
+        {
+            "title": "Brush Materials",
+            "value": "Synthetic fibers, wooden handles"
+        },
+        {
+            "title": "Carrying Case",
+            "value": "Included"
+        }
+    ],
+    "other_details": "Achieve professional-looking makeup results with this versatile and high-quality brush set. It's perfect for beginners and makeup enthusiasts alike."
+},
+
+{
+    "name": "The Great Gatsby",
+    "price": 12.99,
+    "description": "A classic American novel by F. Scott Fitzgerald, set in the 1920s and exploring themes of wealth, love, and the American Dream.",
+    "category_id": "xPA8LCQEDd5SfApuAX9v",
+    "quantity": 15,
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg"
+
+    ],
+    "author": "F. Scott Fitzgerald",
+    "year_published": 1925,
+    "other_details": "A must-read for literature enthusiasts, this novel showcases the flamboyance and decadence of the Jazz Age while delving into the complexities of human nature."
+},
+{
+    "name": "Sapiens: A Brief History of Humankind",
+    "price": 15.99,
+    "description": "A thought-provoking exploration of the history and impact of Homo sapiens, covering topics such as biology, culture, and technology.",
+    "category_id": "xPA8LCQEDd5SfApuAX9v",
+    "quantity": 10,
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703329310i/23692271.jpg"
+   
+    ],
+    "author": "Yuval Noah Harari",
+    "year_published": 2011,
+    "other_details": "This book offers a captivating perspective on the history of humanity, challenging conventional wisdom and providing intriguing insights into our species' past and future."
+},
+{
+    "name": "The Diary of a Young Girl",
+    "price": 9.99,
+    "description": "The poignant and powerful diary of Anne Frank, a Jewish girl hiding from the Nazis during World War II.",
+    "category_id": "xPA8LCQEDd5SfApuAX9v",
+    "quantity": 20,
+    "images": [
+        "https://m.media-amazon.com/images/I/51Eyjz65gyL._SY466_.jpg"
+ 
+    ],
+    "author": "Anne Frank",
+    "year_published": 1947,
+    "other_details": "Anne Frank's diary is a testament to the indomitable spirit of hope and resilience in the face of adversity, and a reminder of the atrocities of the Holocaust."
+},
+{
+    "name": "Dune",
+    "price": 14.99,
+    "description": "A science fiction epic by Frank Herbert, set in a distant future where interstellar travel and political intrigue intertwine.",
+    "category_id": "xPA8LCQEDd5SfApuAX9v",
+    "quantity": 12,
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458.jpg"
+    
+    ],
+    "author": "Frank Herbert",
+    "year_published": 1965,
+    "other_details": "Immerse yourself in the richly imagined world of Dune, filled with complex characters, intricate plots, and philosophical explorations."
+},
+
+{
+    "name": "Harry Potter and the Sorcerer's Stone",
+    "price": 10.99,
+    "description": "The first book in J.K. Rowling's beloved Harry Potter series, introducing readers to the enchanting world of magic and adventure.",
+    "category_id": "xPA8LCQEDd5SfApuAX9v",
+    "quantity": 25,
+    "images": [
+        "https://cdn.kobo.com/book-images/63222867-476c-48c2-862f-a2604e09ce67/353/569/90/False/harry-potter-and-the-sorcerer-s-stone-the-first-book-in-the-phenomenal-internationally-bestselling-harry-potter-series-by-j-k-rowling.jpg"
+  
+    ],
+    "author": "J.K. Rowling",
+    "year_published": 1997,
+    "other_details": "Join Harry Potter on his journey at Hogwarts School of Witchcraft and Wizardry, where he discovers his magical abilities and encounters friends and foes."
+},
+
+{
+    "name": "Milk and Honey",
+    "price": 8.99,
+    "description": "A collection of poems by Rupi Kaur, exploring themes of love, loss, trauma, and healing.",
+    "category_id": "xPA8LCQEDd5SfApuAX9v",
+    "quantity": 15,
+    "images": [
+        "https://rupikaur.com/cdn/shop/files/Rupi_Kaur_Books_Milk_and_Honey_PB.png?v=1614991177&width=750"
+     
+    ],
+    "author": "Rupi Kaur",
+    "year_published": 2014,
+    "other_details": "Indulge in the raw and evocative poetry of Rupi Kaur, which explores the human experience with vulnerability and emotional depth."
+},
+
+{
+    "name": "The 7 Habits of Highly Effective People",
+    "price": 13.99,
+    "description": "A groundbreaking self-help book by Stephen R. Covey, offering practical advice on personal and professional development.",
+    "category_id": "xPA8LCQEDd5SfApuAX9v",
+    "quantity": 20,
+    "images": [
+        "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982137137/the-7-habits-of-highly-effective-people-9781982137137_lg.jpg"
+   
+    ],
+    "author": "Stephen R. Covey",
+    "year_published": 1989,
+    "other_details": "Learn strategies for personal effectiveness and growth, and cultivate habits that can lead to success and fulfillment in various aspects of life."
+},
+{
+    "name": "Thriller",
+    "price": 9.99,
+    "description": "The iconic album by Michael Jackson, featuring hit songs like 'Thriller', 'Beat It', and 'Billie Jean'.",
+    "category_id": "xPA8LCQEDd5SfApuAX9v",
+    "quantity": 10,
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/vi/8/89/Michael_jackson_thriller_12_inch_single_USA.jpg"
+      
+    ],
+    "artist": "Michael Jackson",
+    "year_released": 1982,
+    "other_details": "Experience the magic of one of the best-selling albums of all time, known for its groundbreaking music videos and infectious pop sound."
+},
+
+{
+    "name": "The Joy of Cooking",
+    "price": 19.99,
+    "description": "A comprehensive cookbook that covers a wide range of recipes, techniques, and tips for home cooks of all levels.",
+    "category_id": "xPA8LCQEDd5SfApuAX9v",
+    "quantity": 12,
+    "images": [
+        "https://m.media-amazon.com/images/I/518l74WcgML._SX342_SY445_.jpg"
+       
+    ],
+    "author": "Irma S. Rombauer",
+    "year_published": 1931,
+    "other_details": "Discover the joy of cooking with this timeless cookbook, filled with delicious recipes, helpful instructions, and culinary guidance."
+},
+
+{
+    "name": "SoundStream",
+    "price": 9.99,
+    "description": "A music streaming service that offers unlimited access to a vast library of songs, albums, and playlists across various genres.",
+    "category_id": "xPA8LCQEDd5SfApuAX9v",
+    "quantity": null,
+    "images": [
+        "https://cuongthinhauto.vn/wp-content/uploads/loa-sub-gam-ghe-soundstream-103AS-1.png",
+       
+    ],
+    "provider": "SoundStream",
+    "subscription_type": "Premium",
+    "other_details": "Enjoy ad-free music streaming, personalized recommendations, offline listening, and the ability to create and share playlists with a SoundStream Premium subscription."
 }
 
 
